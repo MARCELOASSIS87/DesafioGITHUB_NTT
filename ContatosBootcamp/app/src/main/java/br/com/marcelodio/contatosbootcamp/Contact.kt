@@ -1,4 +1,5 @@
 package br.com.marcelodio.contatosbootcamp
 
-class Contact {
-}
+import android.telephony.PhoneNumberUtils
+
+data class Contact(val name: String, val phoneNumber: String)
