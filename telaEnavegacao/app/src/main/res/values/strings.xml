@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">telaEnavegacao</string>
+    <string name="iv_photograph_content_description">photoDescription</string>
+    <string name="nome_do_contato">Nome do contato</string>
+    <string name="number_telephone">(00) 0000-0000</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
 </resources>
